@@ -1,0 +1,13 @@
+.Container1{
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 400px;
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+
+}
